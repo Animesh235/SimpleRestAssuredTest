@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-12-05T17:05:05 IST" name="Default suite" finished-at="2024-12-05T17:05:07 IST" duration-ms="2645">
+    <groups>
+    </groups>
+    <test started-at="2024-12-05T17:05:05 IST" name="Default test" finished-at="2024-12-05T17:05:07 IST" duration-ms="2645">
+      <class name="restassuredTest.restassuredTest.Api">
+        <test-method signature="testApi()[pri:0, instance:restassuredTest.restassuredTest.Api@6069db50]" started-at="2024-12-05T17:05:05 IST" name="testApi" finished-at="2024-12-05T17:05:07 IST" duration-ms="2609" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testApi -->
+      </class> <!-- restassuredTest.restassuredTest.Api -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
